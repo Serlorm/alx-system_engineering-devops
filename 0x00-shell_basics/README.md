@@ -1,1 +1,1 @@
-Delete the directory
+A script that list all files
