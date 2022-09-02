@@ -1,1 +1,1 @@
-A script that list all files
+A script that moves all files in uppercase
