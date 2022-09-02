@@ -1,1 +1,1 @@
-A script that moves all files in uppercase
+Script that deletes all files in the current working directory
